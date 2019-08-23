@@ -1,8 +1,9 @@
 # NumtaDB
 
-This is a Bengali digits dataset collected and curated by Samiul Alam, Tahsin Reasat, Rashed Mohammad Doha and Ahmed Imtiaz Humayun.
+This is a publicly available Bengali digits dataset collected and curated by Samiul Alam, Tahsin Reasat, Rashed Mohammad Doha and Ahmed Imtiaz Humayun.
 
 Link to arxiv: https://arxiv.org/abs/1806.02452
+
 Link to Kaggle Dataset: https://www.kaggle.com/BengaliAI/numta
 
 The description given below is copied from the kaggle page link given above.
